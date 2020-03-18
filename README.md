@@ -2,7 +2,7 @@
 
 ## Musik mit Code
 
-> :warning: **If you are using mobile browser**: Be very careful here!
+> :warning: **ACHTUNG**: Aufgrund der aktuellen gesundheitlichen Lage rund um das Coronavirus müssen wir leider die kommende Veranstaltung bei Koenig & Bauer Coding absagen. Sobald wir einen Ausweichtermin gefunden haben werden wir das wie gewohnt über die Homepage und den Newsletter bekannt geben.
 
 
 ### Allgemeine Infos:
