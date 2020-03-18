@@ -2,13 +2,16 @@
 
 ## Musik mit Code
 
+> :warning: **If you are using mobile browser**: Be very careful here!
+
+
 ### Allgemeine Infos:
-- ~~Website: [CoderDojo Würzburg](https://www.coderdojo-wue.de/)~~
+- Website: [CoderDojo Würzburg](https://www.coderdojo-wue.de/)
 - ~~Datum: 21.03.2002~~
 - ~~Uhrzeit: 10:00-16:00 Uhr~~
 - ~~Ort: Koenig & Bauer Coding, Benzstraße 11, 97209 Veitshöchheim~~
-- ~~Projekt: [Musik mit Code](https://github.com/Nutzernam3/CoderDojo_Musik_mit_Code)~~
-- ~~Tutor: [Nutzernam3](https://github.com/Nutzernam3)~~
+- Projekt: [Musik mit Code](https://github.com/Nutzernam3/CoderDojo_Musik_mit_Code)
+- Tutor: [Nutzernam3](https://github.com/Nutzernam3)
 
 ### Was machen wir?
 In in diesem Projekt werden wir unsere eigenen Lieder mit Hilfe der Programmiersprache C auf einem Raspberry Pi komponieren und natürlich auch anhören.
