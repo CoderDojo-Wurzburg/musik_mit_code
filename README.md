@@ -10,7 +10,7 @@
 - ~~Datum: 21.03.2002~~
 - ~~Uhrzeit: 10:00-16:00 Uhr~~
 - ~~Ort: Koenig & Bauer Coding, Benzstraße 11, 97209 Veitshöchheim~~
-- Projekt: [Musik mit Code](https://github.com/Nutzernam3/CoderDojo_Musik_mit_Code)
+- Projekt: [Musik mit Code](https://github.com/CoderDojo-Wurzburg/musik_mit_code)
 - Tutor: [Nutzernam3](https://github.com/Nutzernam3)
 
 ### Was machen wir?
